@@ -16,6 +16,10 @@
 	left: calc(50% - 160px);
 }
 
+.red{
+	color: red;
+}
+
 form {
 	position: absolute;
 	text-align: center;
